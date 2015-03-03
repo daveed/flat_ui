@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["dalphen"]
+  s.authors = ["daveed"]
   s.date = "2013-04-11"
   s.description = "FlatUi wraps and installs the free version of Flat UI into a rails asset pipeline."
-  s.email = "dalphen@reorientgroup.com"
+  s.email = ""
   s.extra_rdoc_files = [
     "README.rdoc"
   ]
